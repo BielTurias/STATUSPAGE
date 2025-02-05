@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  statuspage:
+    image: d01dataunit.azurecr.io/watchdog:001
+    restart: on-failure
+    environment:
+      - DB_SERVER=sql.internal.d01.cloud
+      - DB_USERNAME=auto
+      - DB_PASSWORD=SCIU1qqDUsBYgASRm3wM
+      - DB_DB=Monday
+    ports:
+      - "8008:80"
+    volumes:
+      - ./data:/code/data/

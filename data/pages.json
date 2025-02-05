@@ -1,0 +1,18 @@
+{
+    "COMSA - Proposals Back" : "https://api-proposals.comsa.com/swagger/index.html"
+    ,"COMSA - GIC Back" : "https://api-gic.comsa.com/swagger/index.html"
+    ,"COMSA - FMHub Front" : "https://web-fmhub.comsa.com"
+    ,"COMSA - CSER Back" : "https://api-cser.comsa.com/swagger/index.html"
+    ,"REDD - MF Dev" : "http://jarjarcp.docker.internal.d01.cloud:5900/"
+    ,"D01 - GTI Demo" : "http://jarjarcp.docker.internal.d01.cloud:4501/"
+    ,"METAROM - Staging Back" : "https://metarom-api-stg.azurewebsites.net/swagger/index.html"
+    ,"METAROM - Staging Front" : "https://metarom-stg.azurewebsites.net/"
+    , "DECAL - Customers Back" : "https://api-customers.decalesp.com"
+    , "DECAL - Stocks Back" :"https://api-stocks.decalesp.com"
+    , "DECAL - Intranet Back" :"https://api-decalgen.decalesp.com"
+    , "DECAL - Customers Front" :"https://customers.decalesp.com"
+    , "DECAL - Stocks Front" :"https://stocks.decalesp.com"
+    , "DECAL - Intranet Front" :"https://intranet.decalesp.com"
+    , "D01 - Verdaccio" : "https://verdaccio.d01.cloud"
+    , "D01 - Grafana" : "http://grafana.internal.d01.cloud:3000"
+    }
