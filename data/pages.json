@@ -15,4 +15,4 @@
     , "DECAL - Intranet Front" :"https://intranet.decalesp.com"
     , "D01 - Verdaccio" : "https://verdaccio.d01.cloud"
     , "D01 - Grafana" : "http://grafana.internal.d01.cloud:3000"
-    }
+}
